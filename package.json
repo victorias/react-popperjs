@@ -1,8 +1,8 @@
 {
   "name": "react-popperjs",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "React wrapper for PopperJS",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build:lib": "./node_modules/.bin/babel src --out-dir lib",
