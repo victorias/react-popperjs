@@ -20,7 +20,8 @@
     "react",
     "popperjs",
     "popover",
-    "tooltip"
+    "tooltip",
+    "react-component"
   ],
   "author": "victorias",
   "license": "MIT",
