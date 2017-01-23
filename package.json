@@ -1,6 +1,6 @@
 {
   "name": "react-popperjs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React wrapper for PopperJS",
   "main": "lib/index.js",
   "scripts": {
