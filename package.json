@@ -43,9 +43,11 @@
     "babel-preset-react": "^6.16.0",
     "babel-preset-stage-0": "^6.16.0",
     "flow-bin": "^0.37.4",
-    "popper.js": "^1.0.4",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
     "webpack": "^1.14.0"
+  },
+  "dependencies": {
+    "popper.js": "^1.0.4"
   }
 }
