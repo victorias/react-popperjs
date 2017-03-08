@@ -1,6 +1,6 @@
 # react-popperjs
 
-This library is a react wrapper around [PopperJS](https://github.com/FezVrasta/popper.js/). It uses [React Portal](https://github.com/tajo/react-portal) to render the popped out component in its own subtree so that the popped out component is less likely to conflict with existing styles/appear underneath something else unexpectedly.
+This library is a react wrapper around [PopperJS](https://github.com/FezVrasta/popper.js/).
 
 This project is under active development, so apologies if the API changes unexpectedly.
 
