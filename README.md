@@ -23,7 +23,7 @@ const PopperExample = () => (
   </Popper>
 );
 
-const Tooltip = () => (
+const TooltipExample = () => (
   <Tooltip
     message="tooltip message"
   >
